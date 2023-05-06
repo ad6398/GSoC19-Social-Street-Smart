@@ -14,7 +14,7 @@
   "homepage": "https://gitlab.com/aossie/social-street-smart#README",
   "dependencies": {
     "del": "^2.2.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-cli": "^2.0.1",
     "gulp-eslint": "^5.0.0",
     "gulp-if": "^2.0.2",
